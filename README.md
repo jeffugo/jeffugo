@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **Book Lover and Arsenal Fan**
 
-### Blogs posts
+### Latest blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
