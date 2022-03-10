@@ -19,7 +19,7 @@
 
 ### Latest blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Review: Budding Prospects By T. Coraghessan Boyle](https://medium.com/@jeffomenyuru/review-budding-prospects-by-t-coraghessan-boyle-cb74ab9079f9?source=rss-fb3973a7e01d------2)
+- [Book Review: Budding Prospects By T. Coraghessan Boyle](https://medium.com/@jeffomenyuru/review-budding-prospects-by-t-coraghessan-boyle-cb74ab9079f9?source=rss-fb3973a7e01d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
